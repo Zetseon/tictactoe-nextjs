@@ -16,6 +16,9 @@
   }
 }
 
+.icon {
+  @apply w-8 h-8
+}
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
